@@ -13,12 +13,12 @@ import com.study.service.Impl.Orange;
 public class SimpleFactory {
 
     public static Fruit getInstance(String className){
-        Fruit f=null;
+        Fruit f = null;
         if(className.equals("apple")){
-            f=new Apple();
+            f = new Apple();
         }
         if(className.endsWith("orange")){
-            f=new Orange();
+            f = new Orange();
         }
         return f;
     }

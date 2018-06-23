@@ -6,7 +6,7 @@ import org.junit.Test;
 public class HelloTest extends BaseTest {
 
     @Test
-    public void getTicketInfo() {
+    public void getHelloInfo() {
         System.out.println("hello");
     }
 

@@ -1,4 +1,3 @@
-import com.study.service.Fruit;
 import org.junit.After;
 import org.junit.Before;
 import org.junit.runner.RunWith;

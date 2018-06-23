@@ -4,6 +4,8 @@ import org.junit.Test;
 
 /**
  * 测试简单工厂模式
+ *
+ * @author Howe Hsiang
  */
 public class SimpleFactoryTest extends BaseTest {
 

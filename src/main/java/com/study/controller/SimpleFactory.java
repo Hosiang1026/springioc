@@ -6,7 +6,10 @@ import com.study.service.Impl.Orange;
 
 /**
  *  简单工厂模式
+ *
+ *  @author Howe Hsiang
  */
+
 public class SimpleFactory {
 
     public static Fruit getInstance(String className){

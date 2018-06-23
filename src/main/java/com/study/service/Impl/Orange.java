@@ -4,7 +4,9 @@ import com.study.service.Fruit;
 
 /**
  * 简单工厂模式
- * 实现类A
+ * 实现类B
+ *
+ * @author Howe Hsiang
  */
 public class Orange implements Fruit {
     @Override

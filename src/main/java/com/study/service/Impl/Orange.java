@@ -9,6 +9,7 @@ import com.study.service.Fruit;
  * @author Howe Hsiang
  */
 public class Orange implements Fruit {
+
     @Override
     public void eat() {
         System.out.println("吃橘子");

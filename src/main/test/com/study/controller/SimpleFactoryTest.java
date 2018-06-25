@@ -1,4 +1,5 @@
-import com.study.controller.SimpleFactory;
+package com.study.controller;
+
 import com.study.service.Fruit;
 import org.junit.Test;
 
@@ -10,7 +11,8 @@ import org.junit.Test;
 public class SimpleFactoryTest extends BaseTest {
 
     @Test
-    public void getInstanceInfo() {
+    public void getInstance() {
+
         Fruit apple = SimpleFactory.getInstance("apple");
         apple.eat();
 

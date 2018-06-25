@@ -1,3 +1,5 @@
+package com.study.controller;
+
 import com.study.controller.BaseTest;
 import org.junit.Test;
 

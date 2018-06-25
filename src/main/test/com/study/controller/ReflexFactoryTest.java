@@ -13,9 +13,11 @@ public class ReflexFactoryTest extends BaseTest {
     @Test
     public void getInstance() {
 
+        //苹果
         Fruit apple = ReflexFactory.getInstance("com.study.service.Impl.Apple");
         apple.eat();
 
+        //橘子
         Fruit orange = ReflexFactory.getInstance("com.study.service.Impl.Orange");
         orange.eat();
     }

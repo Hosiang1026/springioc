@@ -13,8 +13,10 @@ import java.util.Properties;
 
 public class PropertiesOperate {
 
-    private Properties pro=null;
+    private Properties pro = null;
+
     String url = this.getClass().getResource("/").getPath();
+
     private File file = new File(url+"fruit.properties");
 
     public PropertiesOperate(){
@@ -29,6 +31,7 @@ public class PropertiesOperate {
             this.save();
         }
     }
+
     private void save(){
         this.pro.setProperty("apple","com.study.service.Impl.Apple");
         this.pro.setProperty("orange", "com.study.service.Impl.Orange");

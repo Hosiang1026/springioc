@@ -13,7 +13,7 @@ import org.springframework.web.servlet.ModelAndView;
  *
  */
 @Controller
-public class TestController {
+public class HelloController {
 
     String message = "Welcome to Spring MVC!";
  

@@ -6,7 +6,7 @@ import com.study.service.Impl.Orange;
 
 /**
  *  简单工厂模式
- *
+ *  工厂类
  *  @author Howe Hsiang
  */
 

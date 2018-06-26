@@ -4,7 +4,7 @@ import com.study.service.Fruit;
 
 /**
  *  反射+简单工厂模式
- *
+ *  反射工厂类
  *  @author Howe Hsiang
  */
 

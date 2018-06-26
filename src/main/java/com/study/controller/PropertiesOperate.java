@@ -7,6 +7,7 @@ import java.util.Properties;
 
 /**
  *  反射+简单工厂模式+xml配置文件
+ *  实例配置类PropertiesOperate
  *
  *  @author Howe Hsiang
  */

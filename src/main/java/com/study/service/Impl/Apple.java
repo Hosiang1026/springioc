@@ -4,7 +4,7 @@ import com.study.service.Fruit;
 
 /**
  * 简单工厂模式
- * 实现类A
+ * 实现类Apple
  *
  * @author Howe Hsiang
  */

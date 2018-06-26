@@ -4,7 +4,7 @@ import com.study.service.Fruit;
 
 /**
  * 简单工厂模式
- * 实现类B
+ * 实现类Orange
  *
  * @author Howe Hsiang
  */

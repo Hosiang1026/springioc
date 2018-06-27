@@ -1,5 +1,5 @@
 # springioc
-This a learning springioc project.
+This is a learning springioc project.
 
 ###### IOC详解：
 https://blog.csdn.net/jwdstef/article/details/18768633
